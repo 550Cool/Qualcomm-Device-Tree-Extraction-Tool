@@ -34,8 +34,8 @@
 
 ```bash
 # 下载脚本
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/550Cool/Qualcomm-Device-Tree-Extraction-Tool.git
+cd Qualcomm-Device-Tree-Extraction-Tool
 
 # 添加执行权限
 chmod +x extract_dt.sh
