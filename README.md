@@ -38,9 +38,9 @@ git clone <repository-url>
 cd <repository-directory>
 
 # 添加执行权限
-chmod +x extract\\\_dt.sh
+chmod +x extract_dt.sh
 
 # 运行脚本
-./extract\\\_dt.sh
+./extract_dt.sh
 
 
